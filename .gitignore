@@ -1,6 +1,3 @@
-# 打包产物
-*.zip
-
 # 系统文件
 Thumbs.db
 desktop.ini
